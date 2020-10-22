@@ -9,8 +9,11 @@ Welcome to docs's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+	C:\Users\Gorica\Documents\Sphinx\introduction\intro.rst
 
 
+Lorem ipsum dolor sit amet
 
 Indices and tables
 ==================
